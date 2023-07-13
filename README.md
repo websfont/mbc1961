@@ -1,0 +1,19 @@
+# mbc1961
+MBC 1961체(mbc1961)
+
+<pre>
+@font-face {
+    font-family: "mbc1961";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/mbc1961/mbc1961.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/mbc1961/mbc1961.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/mbc1961/mbc1961.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/mbc1961/mbc1961.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/mbc1961/mbc1961.ttf") format("truetype");
+    font-display: swap;
+}
+.mbc1961 {
+    font-family: "mbc1961";
+}
+</pre>
